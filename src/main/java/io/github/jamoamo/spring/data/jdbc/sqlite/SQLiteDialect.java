@@ -36,7 +36,12 @@ import org.springframework.data.relational.core.sql.LockOptions;
  */
 public final class SQLiteDialect extends AbstractDialect
 {
+	/**
+	 * Instance of SQLiteDialect.
+	 */
 	public static final SQLiteDialect INSTANCE = new SQLiteDialect();
+	
+	private SQLiteDialect(){}
 
 	@Override
 	public LockClause lock()
