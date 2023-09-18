@@ -5,6 +5,10 @@
    <artifactId>spring-data-jdbc-sqlite</artifactId>
    <version>1.1-SNAPSHOT</version>
    <packaging>jar</packaging>
+   
+   <name>apring-data-jdbc-sqlite</name>
+   <description>A SQLite dialect implementation for Spring data JDBC</description>
+   <url>https://github.com/jamoamo/spring-data-jdbc-sqlite</url>
     
    <licenses>
       <license>
