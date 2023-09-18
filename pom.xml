@@ -3,7 +3,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>io.github.jamoamo</groupId>
    <artifactId>spring-data-jdbc-sqlite</artifactId>
-   <version>1.1-SNAPSHOT</version>
+   <version>1.1</version>
    <packaging>jar</packaging>
    
    <name>spring-data-jdbc-sqlite</name>
@@ -29,7 +29,7 @@
       <connection>scm:git:https://github.com/jamoamo/spring-data-jdbc-sqlite.git</connection>
       <developerConnection>scm:git:https://github.com/jamoamo/spring-data-jdbc-sqlite.git</developerConnection>
       <url>https://github.com/jamoamo/spring-data-jdbc-sqlite</url>
-      <tag>HEAD</tag>
+      <tag>v1.1</tag>
    </scm>
    
    <properties>
